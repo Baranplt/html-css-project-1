@@ -1,0 +1,37 @@
+.istatik {
+    margin: 10rem 0;
+    padding: 3rem;
+    box-shadow: 0px 80px 80px -60px #0D1025;
+}
+
+.istatik-item:not(:last-child) {
+    border-right: 2px solid #EEEFF2;
+}
+
+.istatik-item {
+    padding: 1.5rem;
+}
+
+.istatik-item-icon {
+    color: red;
+    padding: 1rem;
+    background: #FFECEC;
+    border-radius: 70px;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}
+
+.istatik-item-title {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #0B132A;
+}
+
+.istatik-item-desc {
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #4F5665;
+}

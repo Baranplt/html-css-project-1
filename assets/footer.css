@@ -1,0 +1,56 @@
+.footer {
+    padding: 7rem 0;
+}
+
+.footer-left {
+    padding-right: 9rem;
+}
+
+.footer-left-txt {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+    margin-top: 2rem;
+}
+
+.footer-left-links button {
+    padding: 0.5rem;
+    margin-top: 3rem;
+}
+
+
+.footer-left-links button i {
+    font-size: 1rem;
+
+}
+
+.footer-left-links :not(:first-child) {
+    margin-left: 1rem;
+}
+
+.footer-date {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #AFB5C0;
+    margin-top: 3rem;
+
+}
+
+.footer-right h1 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 2rem;
+    color: #0B132A;
+}
+
+.footer-right-links a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+    margin-bottom: 2rem;
+
+}

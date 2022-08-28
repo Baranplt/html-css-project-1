@@ -1,0 +1,28 @@
+.home-vpn {
+    padding: 14rem 0;
+}
+
+.home-vpn-title {
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    /* or 143% */
+
+    text-align: center;
+
+    color: #0B132A;
+
+}
+
+.home-vpn-desc {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: #4F5665;
+    margin: 2rem 0 10rem 0;
+}
+
+.home-vpn-links ul li {
+    margin: 0 1rem;
+}

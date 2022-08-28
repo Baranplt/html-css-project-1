@@ -1,0 +1,46 @@
+.header {
+    padding: 45px 0 88px 0;
+}
+
+.header-center ul li {
+    padding-right: 40px;
+
+}
+
+.header-center ul li a {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    color: #4F5665;
+
+}
+
+.sign-in a {
+
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+    /* identical to box height */
+    padding-right: 4rem;
+
+
+    color: #0B132A;
+}
+
+
+.header-right-sign button {
+
+    border: 1px solid #F53855;
+    border-radius: 5rem;
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+    /* identical to box height */
+    padding: 0.8rem 2rem;
+    background: none;
+    color: #F53855;
+    cursor: pointer;
+}

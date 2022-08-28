@@ -1,0 +1,60 @@
+.btn {
+    padding: 1rem 4.5rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn-scrol {
+    background-color: #fff;
+    border: 1px solid red;
+    padding: 1rem;
+    border-radius: 100%;
+    cursor: pointer;
+    color: red;
+
+}
+
+.btn-icon {
+
+    background-color: #fff;
+    border: 1px solid red;
+    padding: 1rem;
+    border-radius: 100%;
+    cursor: pointer;
+    color: red;
+}
+
+
+.btn-primary {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25px;
+    color: #FFFFFF;
+    background: #F53838;
+    border: 1px solid #F53838;
+    box-shadow: 1px 31px 30px -9px rgb(245 56 56)
+}
+
+.btn-secondary {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25px;
+    color: #F53838;
+    background: #fff;
+    border: 3px solid #F53838;
+    border-radius: 2rem;
+
+}
+
+.btn-tertiary {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25px;
+    color: #FFFFFF;
+    background: #F53838;
+    border: 1px solid #F53838;
+    box-shadow: 1px 31px 30px -20px rgb(245 56 56);
+
+    border-radius: 50px;
+
+}

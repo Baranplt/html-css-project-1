@@ -1,0 +1,39 @@
+.home-provide-right {
+    padding-left: 17rem;
+}
+
+.home-provide-title {
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color: #0B132A;
+    margin-bottom: 1.5rem;
+}
+
+.home-provide-desc {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 188% */
+    margin-bottom: 1.5rem;
+
+
+    color: #4F5665;
+}
+
+.home-provide-nav ul li a i {
+    color: #fff;
+    background-color: green;
+    padding: 0.5rem;
+    border-radius: 7.5rem;
+    align-items: center;
+    justify-content: center;
+    margin: 0.8rem 0;
+}
+
+.home-provide-nav ul li a {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: #4F5665;
+}
